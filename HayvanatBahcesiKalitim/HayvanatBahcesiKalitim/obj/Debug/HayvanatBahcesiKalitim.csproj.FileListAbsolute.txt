@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HayvanatBahcesiKalitim\HayvanatBahcesiKalitim\bin\Debug\HayvanatBahcesiKalitim.exe.config
+C:\Users\User\source\repos\HayvanatBahcesiKalitim\HayvanatBahcesiKalitim\bin\Debug\HayvanatBahcesiKalitim.exe
+C:\Users\User\source\repos\HayvanatBahcesiKalitim\HayvanatBahcesiKalitim\bin\Debug\HayvanatBahcesiKalitim.pdb
+C:\Users\User\source\repos\HayvanatBahcesiKalitim\HayvanatBahcesiKalitim\obj\Debug\HayvanatBahcesiKalitim.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HayvanatBahcesiKalitim\HayvanatBahcesiKalitim\obj\Debug\HayvanatBahcesiKalitim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HayvanatBahcesiKalitim\HayvanatBahcesiKalitim\obj\Debug\HayvanatBahcesiKalitim.exe
+C:\Users\User\source\repos\HayvanatBahcesiKalitim\HayvanatBahcesiKalitim\obj\Debug\HayvanatBahcesiKalitim.pdb
