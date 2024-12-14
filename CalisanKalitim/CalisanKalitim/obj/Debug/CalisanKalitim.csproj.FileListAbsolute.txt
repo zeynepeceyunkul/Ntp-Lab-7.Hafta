@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CalisanKalitim\CalisanKalitim\bin\Debug\CalisanKalitim.exe.config
+C:\Users\User\source\repos\CalisanKalitim\CalisanKalitim\bin\Debug\CalisanKalitim.exe
+C:\Users\User\source\repos\CalisanKalitim\CalisanKalitim\bin\Debug\CalisanKalitim.pdb
+C:\Users\User\source\repos\CalisanKalitim\CalisanKalitim\obj\Debug\CalisanKalitim.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CalisanKalitim\CalisanKalitim\obj\Debug\CalisanKalitim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalisanKalitim\CalisanKalitim\obj\Debug\CalisanKalitim.exe
+C:\Users\User\source\repos\CalisanKalitim\CalisanKalitim\obj\Debug\CalisanKalitim.pdb
