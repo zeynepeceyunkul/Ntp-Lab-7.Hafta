@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\YayinciAboneAbstract\YayinciAboneAbstract\bin\Debug\YayinciAboneAbstract.exe.config
+C:\Users\User\source\repos\YayinciAboneAbstract\YayinciAboneAbstract\bin\Debug\YayinciAboneAbstract.exe
+C:\Users\User\source\repos\YayinciAboneAbstract\YayinciAboneAbstract\bin\Debug\YayinciAboneAbstract.pdb
+C:\Users\User\source\repos\YayinciAboneAbstract\YayinciAboneAbstract\obj\Debug\YayinciAboneAbstract.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YayinciAboneAbstract\YayinciAboneAbstract\obj\Debug\YayinciAboneAbstract.exe
+C:\Users\User\source\repos\YayinciAboneAbstract\YayinciAboneAbstract\obj\Debug\YayinciAboneAbstract.pdb
