@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MagazaAbstract\MagazaAbstract\bin\Debug\MagazaAbstract.exe.config
+C:\Users\User\source\repos\MagazaAbstract\MagazaAbstract\bin\Debug\MagazaAbstract.exe
+C:\Users\User\source\repos\MagazaAbstract\MagazaAbstract\bin\Debug\MagazaAbstract.pdb
+C:\Users\User\source\repos\MagazaAbstract\MagazaAbstract\obj\Debug\MagazaAbstract.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MagazaAbstract\MagazaAbstract\obj\Debug\MagazaAbstract.exe
+C:\Users\User\source\repos\MagazaAbstract\MagazaAbstract\obj\Debug\MagazaAbstract.pdb
